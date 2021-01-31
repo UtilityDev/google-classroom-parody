@@ -1,0 +1,21 @@
+#course7b {
+  width: 200px;
+  height: 200;
+  border-radius: 15px;
+  border: 2px solid gray;
+  text-align: center;
+}
+
+#course7b:hover {
+  text-decoration: underline;
+}
+
+#course2 {
+  width: 200px;
+  height: 200;
+  border-radius: 15px;
+  border: 2px solid gray;
+  display: flex;
+  padding: 10px;
+  flex: 5;
+}
